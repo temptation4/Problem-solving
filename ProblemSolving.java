@@ -650,23 +650,14 @@ return longestCommonSubstring(s,rev);
                             return false;
                         }
                     }
-
                     else if (ch == ']') {
                         char ch1 = stack.pop();
                         if (ch1 == '(' || ch1 == '{') {
                             return false;
                         }
                     }
-
-
                 }
-
-
-
                 return stack.isEmpty();
 
             }
-
-
-
 }
