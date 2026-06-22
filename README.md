@@ -56,11 +56,6 @@ This repository contains solutions to popular Data Structures and Algorithms pro
 
 ---
 
-## Project Structure
-
-```bash
-ProblemSolving.java
-
 
 ## 👨‍💻 Author
 Neelu Sahai
